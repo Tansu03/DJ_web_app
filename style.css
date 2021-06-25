@@ -1,0 +1,35 @@
+.dj_web_app
+{
+    width: 100%;
+    margin: 0px;    
+    font-size: 24px;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+.speed_disk_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#speed_btn, #volume_btn
+{
+    color: black;
+    font-weight: bold;
+    margin: 40px;
+}
+.speed
+{
+    float: left;
+}
+.volume
+{
+    float: right;
+}
+.volume_disk_img
+{
+    border-radius: 100px;
+    width: 150px;
+}
